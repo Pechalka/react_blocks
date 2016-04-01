@@ -1,0 +1,33 @@
+
+.add-todo-form {
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+}
+
+.add-todo-form__input {
+	margin-right: 5px;
+	border-radius: 2px;
+	border: 1px solid #ccc;
+}
+
+
+.add-todo-form__btn {
+	border-radius: 5px;
+	border: none;
+	color: #fff;
+	background: #228B22;
+
+}
+
+.add-todo-form__btn:focus {
+	outline:0;
+}
+
+.add-todo-form__btn:hover {
+	text-decoration: underline;
+}
+
+.add-todo-form__input:focus {
+	outline:0;
+}

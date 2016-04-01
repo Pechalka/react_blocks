@@ -1,0 +1,12 @@
+
+.blocks-list__item {
+	margin-left: 20px;
+}
+
+.block-container {
+	margin: 10px;
+	outline: 2px solid #bbb;
+	display: block;
+	vertical-align: top;
+	min-height: 300px;
+}

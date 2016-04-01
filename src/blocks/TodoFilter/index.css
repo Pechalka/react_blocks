@@ -1,0 +1,19 @@
+
+.todo-list-filter {
+	text-align: center;
+}
+
+.todo-list-filter__item {
+	margin: 10px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.todo-list-filter__item--active {
+	color: #000;
+	text-decoration: underline;
+}
+
+.todo-list-filter__item--active:hover {
+	color: #000;	
+}
